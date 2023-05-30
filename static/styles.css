@@ -38,6 +38,17 @@ li a:hover {
   color: white;
 }
 
-li a:focus {
+li a:active {
   color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  
+}
+
+h2{
+  color: white;
+  text-align: center;
 }
